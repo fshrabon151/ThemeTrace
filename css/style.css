@@ -31,7 +31,7 @@ hr {
 }
 
 .bg-light-blue {
-  background: rgb(44, 44, 44);
+  background: #2c2c2c;
   color: #ffffff;
   padding: 2rem 0;
 }
@@ -55,6 +55,23 @@ hr {
 
 .showcase img:hover {
   transform: scale(1.5);
+}
+
+#count{
+  background: #f5f4f3;
+  padding: 2rem 0;
+}
+
+.fa-youtube {
+  color: red;
+}
+
+.fa-facebook {
+  color: #39589D;
+}
+
+.fa-twitter {
+  color: #55ACEE;
 }
 
 .footer {
