@@ -4,6 +4,9 @@ body {
 hr {
   width: 9rem;
 }
+.fa-bars {
+  color: #ffffff;
+}
 
 .bg-nav-blue {
   background-color: #5893cf;
