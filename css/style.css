@@ -5,7 +5,7 @@ hr {
   width: 9rem;
 }
 .fa-bars {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .bg-nav-blue {
