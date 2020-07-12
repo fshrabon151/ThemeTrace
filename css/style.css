@@ -30,10 +30,11 @@ hr {
   background: #84a4c9 !important;
 }
 
+
 .bg-light-blue {
-  background: #2c2c2c;
-  color: #ffffff;
-  padding: 2rem 0;
+  background: #f5f4f3;
+  color: #000;
+  padding: 5rem 0;
 }
 .bg-light-blue hr {
   background: #ffffff;
@@ -44,7 +45,7 @@ hr {
 #news {
   background: #323232;
   color: #ffffff;
-  padding: 4rem 0;
+  padding: 5rem 0;
 }
 
 .showcase img {
@@ -58,8 +59,7 @@ hr {
 }
 
 #count{
-  background: #f5f4f3;
-  padding: 2rem 0;
+  padding: 5rem 0;
 }
 
 .fa-youtube {
@@ -75,7 +75,8 @@ hr {
 }
 
 .footer {
-  padding: 50px 0 !important;
+  background: #f5f4f3;
+  padding: 1rem 0 !important;
 }
 
 .footer i {
